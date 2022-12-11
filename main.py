@@ -31,5 +31,3 @@ else:
             # print(company, kind, region)
             title = anchor.find('span', class_='title')
             print(company, kind, region, title)
-            0
-
